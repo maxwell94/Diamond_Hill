@@ -1,0 +1,142 @@
+<PayoutDefinitions>
+          <PayoutDefinition name="S7" class="2" trigger="Line" win="Cash">
+            <Trigger symbols="7" layout="Left" isWildEnabled="true" isUnique="false" requiredBaseSymbol="false" />
+            <Win count="-1" source="Totalbet">
+              <Items>
+                <Item winLine="0" coin="0" symbolCount="3" multiplier="15" />
+                <Item winLine="0" coin="0" symbolCount="4" multiplier="20" />
+                <Item winLine="0" coin="0" symbolCount="5" multiplier="50" />
+              </Items>
+              <SymbolMultipliers>
+                <SymbolMultiplier ids="9" multiplier="2;4" />
+                <SymbolMultiplier ids="10" multiplier="3;9" />
+                <SymbolMultiplier ids="11" multiplier="4;16" />
+                <SymbolMultiplier ids="12" multiplier="5;25" />
+                <SymbolMultiplier ids="13" multiplier="6;36" />
+                <SymbolMultiplier ids="14" multiplier="7;49" />
+                <SymbolMultiplier ids="15" multiplier="8;64" />
+                <SymbolMultiplier ids="16" multiplier="9;81" />
+              </SymbolMultipliers>
+            </Win>
+          </PayoutDefinition>
+          <PayoutDefinition name="S6" class="3" trigger="Line" win="Cash">
+            <Trigger symbols="6" layout="Left" isWildEnabled="true" isUnique="false" requiredBaseSymbol="false" />
+            <Win count="-1" source="Totalbet">
+              <Items>
+                <Item winLine="0" coin="0" symbolCount="3" multiplier="10" />
+                <Item winLine="0" coin="0" symbolCount="4" multiplier="15" />
+                <Item winLine="0" coin="0" symbolCount="5" multiplier="20" />
+              </Items>
+              <SymbolMultipliers>
+                <SymbolMultiplier ids="9" multiplier="2;4" />
+                <SymbolMultiplier ids="10" multiplier="3;9" />
+                <SymbolMultiplier ids="11" multiplier="4;16" />
+                <SymbolMultiplier ids="12" multiplier="5;25" />
+                <SymbolMultiplier ids="13" multiplier="6;36" />
+                <SymbolMultiplier ids="14" multiplier="7;49" />
+                <SymbolMultiplier ids="15" multiplier="8;64" />
+                <SymbolMultiplier ids="16" multiplier="9;81" />
+              </SymbolMultipliers>
+            </Win>
+          </PayoutDefinition>
+          <PayoutDefinition name="S5" class="4" trigger="Line" win="Cash">
+            <Trigger symbols="5" layout="Left" isWildEnabled="true" isUnique="false" requiredBaseSymbol="false" />
+            <Win count="-1" source="Totalbet">
+              <Items>
+                <Item winLine="0" coin="0" symbolCount="3" multiplier="5" />
+                <Item winLine="0" coin="0" symbolCount="4" multiplier="10" />
+                <Item winLine="0" coin="0" symbolCount="5" multiplier="15" />
+              </Items>
+              <SymbolMultipliers>
+                <SymbolMultiplier ids="9" multiplier="2;4" />
+                <SymbolMultiplier ids="10" multiplier="3;9" />
+                <SymbolMultiplier ids="11" multiplier="4;16" />
+                <SymbolMultiplier ids="12" multiplier="5;25" />
+                <SymbolMultiplier ids="13" multiplier="6;36" />
+                <SymbolMultiplier ids="14" multiplier="7;49" />
+                <SymbolMultiplier ids="15" multiplier="8;64" />
+                <SymbolMultiplier ids="16" multiplier="9;81" />
+              </SymbolMultipliers>
+            </Win>
+          </PayoutDefinition>
+          <PayoutDefinition name="S4" class="5" trigger="Line" win="Cash">
+            <Trigger symbols="4" layout="Left" isWildEnabled="true" isUnique="false" requiredBaseSymbol="false" />
+            <Win count="-1" source="Totalbet">
+              <Items>
+                <Item winLine="0" coin="0" symbolCount="3" multiplier="2" />
+                <Item winLine="0" coin="0" symbolCount="4" multiplier="5" />
+                <Item winLine="0" coin="0" symbolCount="5" multiplier="10" />
+              </Items>
+              <SymbolMultipliers>
+                <SymbolMultiplier ids="9" multiplier="2;4" />
+                <SymbolMultiplier ids="10" multiplier="3;9" />
+                <SymbolMultiplier ids="11" multiplier="4;16" />
+                <SymbolMultiplier ids="12" multiplier="5;25" />
+                <SymbolMultiplier ids="13" multiplier="6;36" />
+                <SymbolMultiplier ids="14" multiplier="7;49" />
+                <SymbolMultiplier ids="15" multiplier="8;64" />
+                <SymbolMultiplier ids="16" multiplier="9;81" />
+              </SymbolMultipliers>
+            </Win>
+          </PayoutDefinition>
+          <PayoutDefinition name="S3" class="6" trigger="Line" win="Cash">
+            <Trigger symbols="3" layout="Left" isWildEnabled="true" isUnique="false" requiredBaseSymbol="false" />
+            <Win count="-1" source="Totalbet">
+              <Items>
+                <Item winLine="0" coin="0" symbolCount="3" multiplier="1" />
+                <Item winLine="0" coin="0" symbolCount="4" multiplier="2" />
+                <Item winLine="0" coin="0" symbolCount="5" multiplier="5" />
+              </Items>
+              <SymbolMultipliers>
+                <SymbolMultiplier ids="9" multiplier="2;4" />
+                <SymbolMultiplier ids="10" multiplier="3;9" />
+                <SymbolMultiplier ids="11" multiplier="4;16" />
+                <SymbolMultiplier ids="12" multiplier="5;25" />
+                <SymbolMultiplier ids="13" multiplier="6;36" />
+                <SymbolMultiplier ids="14" multiplier="7;49" />
+                <SymbolMultiplier ids="15" multiplier="8;64" />
+                <SymbolMultiplier ids="16" multiplier="9;81" />
+              </SymbolMultipliers>
+            </Win>
+          </PayoutDefinition>
+          <PayoutDefinition name="S2" class="7" trigger="Line" win="Cash">
+            <Trigger symbols="2" layout="Left" isWildEnabled="true" isUnique="false" requiredBaseSymbol="false" />
+            <Win count="-1" source="Totalbet">
+              <Items>
+                <Item winLine="0" coin="0" symbolCount="3" multiplier="0.5" />
+                <Item winLine="0" coin="0" symbolCount="4" multiplier="1" />
+                <Item winLine="0" coin="0" symbolCount="5" multiplier="2" />
+              </Items>
+              <SymbolMultipliers>
+                <SymbolMultiplier ids="9" multiplier="2;4" />
+                <SymbolMultiplier ids="10" multiplier="3;9" />
+                <SymbolMultiplier ids="11" multiplier="4;16" />
+                <SymbolMultiplier ids="12" multiplier="5;25" />
+                <SymbolMultiplier ids="13" multiplier="6;36" />
+                <SymbolMultiplier ids="14" multiplier="7;49" />
+                <SymbolMultiplier ids="15" multiplier="8;64" />
+                <SymbolMultiplier ids="16" multiplier="9;81" />
+              </SymbolMultipliers>
+            </Win>
+          </PayoutDefinition>
+          <PayoutDefinition name="S1" class="8" trigger="Line" win="Cash">
+            <Trigger symbols="1" layout="Left" isWildEnabled="true" isUnique="false" requiredBaseSymbol="false" />
+            <Win count="-1" source="Totalbet">
+              <Items>
+                <Item winLine="0" coin="0" symbolCount="3" multiplier="0.2" />
+                <Item winLine="0" coin="0" symbolCount="4" multiplier="0.5" />
+                <Item winLine="0" coin="0" symbolCount="5" multiplier="1" />
+              </Items>
+              <SymbolMultipliers>
+                <SymbolMultiplier ids="9" multiplier="2;4" />
+                <SymbolMultiplier ids="10" multiplier="3;9" />
+                <SymbolMultiplier ids="11" multiplier="4;16" />
+                <SymbolMultiplier ids="12" multiplier="5;25" />
+                <SymbolMultiplier ids="13" multiplier="6;36" />
+                <SymbolMultiplier ids="14" multiplier="7;49" />
+                <SymbolMultiplier ids="15" multiplier="8;64" />
+                <SymbolMultiplier ids="16" multiplier="9;81" />
+              </SymbolMultipliers>
+            </Win>
+          </PayoutDefinition>
+        </PayoutDefinitions>
